@@ -22,6 +22,7 @@ Tools dedicated to extracting subjects, removing backgrounds, and cleaning up un
 * [Photoroom](https://www.photoroom.com/) - App and web-based tool for removing backgrounds and creating product images.
 * [Clipdrop](https://clipdrop.co/) - An ecosystem of apps, plugins, and resources for all creators to remove backgrounds and clean up images.
 * [Cleanup.pictures](https://cleanup.pictures/) - Remove objects, people, text, and defects from any picture.
+* [Zubware Background Remover](https://www.zubware.com/background-remover) - Free browser-based tool for removing photo backgrounds and exporting cutouts.
 
 ## Image Generation
 
